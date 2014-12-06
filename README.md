@@ -7,9 +7,8 @@ Direct link:
 https://chocolatey.org/packages?q=zeal
 
 
-# Zeal
+#![Zeal](https://github.com/cellx/chocolatey-packages/blob/master/zeal/zeal_icons/zeal_64px.png) Zeal
 
-![Zeal](https://github.com/cellx/chocolatey-packages/blob/master/zeal_icons/zeal_128px.png "Zeal")
 
 ![Zeal Website](http://zealdocs.org/download.html )
 
