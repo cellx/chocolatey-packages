@@ -5,7 +5,7 @@
 		<title>Zeal</title>
 		<version>20140620</version>
 		<authors>Jerzy Kozera</authors>
-		<owners>Adrián Arroyo</owners>
+		<owners>Kilian Knoerzer</owners>
 		<summary>zeal</summary>
 		<description>Zeal is a simple offline API documentation browser inspired by Dash (OS X app), available for Linux and Windows. </description>
 		<projectUrl>http://zealdocs.org/</projectUrl>
@@ -13,8 +13,8 @@
 		<copyright />
 		<licenseUrl>https://github.com/jkozera/zeal/blob/master/COPYING</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<iconUrl></iconUrl>
-		<dependencies>
+ 		<iconUrl>https://github.com/cellx/chocolatey-packages/raw/master/zeal/zeal_icons/zeal_128px.png</iconUrl>		
+ 		<dependencies>
 			<!-- <dependency id="simutrans" /> -->
 		</dependencies>
 		<releaseNotes>
