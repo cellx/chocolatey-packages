@@ -22,7 +22,7 @@ Zeal is a simple offline API documentation browser inspired by Dash (OS X app), 
 
 
 ### Version
-0.0.1
+[1.0.20140620](https://bitbucket.org/jerzykozera/zeal-win32-binary-downloads/downloads/zeal-20140620.zip)
 
 
 ### Credits:
