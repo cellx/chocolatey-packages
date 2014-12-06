@@ -10,7 +10,7 @@ https://chocolatey.org/packages?q=zeal
 #![Zeal](https://github.com/cellx/chocolatey-packages/blob/master/zeal/zeal_icons/zeal_64px.png) Zeal
 
 
-![Zeal Website](http://zealdocs.org/download.html)
+[Zeal Website](http://zealdocs.org/download.html)
 
 ![Zeal GitHub](https://github.com/jkozera/zeal)
 
@@ -25,7 +25,7 @@ Zeal is a simple offline API documentation browser inspired by Dash (OS X app), 
 0.0.1
 
 
-### Credits for Forks
+### Credits:
 
-![Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/chocolatey-packages/zeal) 
+![Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/chocolatey-packages/tree/master/zeal) 
 
