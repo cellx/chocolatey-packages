@@ -10,7 +10,7 @@ https://chocolatey.org/packages?q=zeal
 #![Zeal](https://github.com/cellx/chocolatey-packages/blob/master/zeal/zeal_icons/zeal_64px.png) Zeal
 
 
-![Zeal Website](http://zealdocs.org/download.html )
+![Zeal Website](http://zealdocs.org/download.html)
 
 ![Zeal GitHub](https://github.com/jkozera/zeal)
 
