@@ -5,10 +5,10 @@ $dest = $(Split-Path -parent $MyInvocation.MyCommand.Definition)
 
 # Install Zip
 $packageName = 'zeal'
-$url = 'https://github.com/jkozera/zeal/releases/download/20141123/zeal-20141123.zip'
-$url64 = 'https://github.com/jkozera/zeal/releases/download/20141123/zeal-20141123.zip'
-$checksum = 'ecd6fcfa6d9bc0111597dc7ea3a22e54'
-$checksum64 = 'ecd6fcfa6d9bc0111597dc7ea3a22e54'
+$url = 'https://bitbucket.org/jerzykozera/zeal-win32-binary-downloads/downloads/zeal-20140620.zip'
+$url64 = 'https://bitbucket.org/jerzykozera/zeal-win32-binary-downloads/downloads/zeal-20140620.zip'
+$checksum = '4744af705a957f6576c62f7435898929'
+$checksum64 = '4744af705a957f6576c62f7435898929'
 Install-ChocolateyZipPackage "$packageName" "$url" "$dest" "$url64" -checksum $checksum -checksum64 $checksum64
 $exePath = $dest + '\zeal.exe'
 
