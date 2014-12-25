@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>zeal</id>
+        <version>1.0.20141123</version>
+        <title>Zeal</title>
+        <authors>Jerzy Kozera</authors>
+        <owners>Kilian Knoerzer</owners>
+        <licenseUrl>https://github.com/jkozera/zeal/blob/master/COPYING</licenseUrl>
+        <projectUrl>http://zealdocs.org/</projectUrl>
+        <iconUrl>https://github.com/cellx/chocolatey-packages/raw/master/zeal/zeal_icons/zeal_128px.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Zeal is a simple offline API documentation browser inspired by Dash (OS X app), available for Linux and Windows.</description>
+        <summary>zeal</summary>
+        <releaseNotes>See http://zealdocs.org/</releaseNotes>
+        <copyright />
+        <language>en-US</language>
+        <tags>dev development dash docs documentation offline browser api</tags>
+    </metadata>
+    <files>
+        <file src="tools\chocolateyInstall.ps1" target="tools\chocolateyInstall.ps1" />
+        <file src="tools\functions.ps1" target="tools\functions.ps1" />
+    </files>
+</package>
