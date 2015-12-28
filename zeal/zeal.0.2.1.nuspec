@@ -2,11 +2,11 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>zeal</id>
-        <version>1.0.20141123</version>
+        <version>0.2.1</version>
         <title>Zeal</title>
-        <authors>Jerzy Kozera</authors>
+        <authors>Jerzy Kozera, Oleg Shparber</authors>
         <owners>Kilian Knoerzer</owners>
-        <licenseUrl>https://github.com/jkozera/zeal/blob/master/COPYING</licenseUrl>
+        <licenseUrl>https://github.com/zealdocs/zeal/blob/master/COPYING</licenseUrl>
         <projectUrl>http://zealdocs.org/</projectUrl>
         <iconUrl>https://github.com/cellx/chocolatey-packages/raw/master/zeal/zeal_icons/zeal_128px.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
